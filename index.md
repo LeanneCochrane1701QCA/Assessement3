@@ -1,4 +1,4 @@
-# *Insert project title here*
+# *A Surprise House*
 ## *Leanne Cochrane* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 

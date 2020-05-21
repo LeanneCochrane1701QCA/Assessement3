@@ -20,7 +20,8 @@ The image should be inserted with code like that below where you replace the fil
 
 
 
-![https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(3).jpg]
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(3).jpg)
+
 (https://vimeo.com/421278043)
 
 

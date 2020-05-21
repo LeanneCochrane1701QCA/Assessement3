@@ -29,7 +29,7 @@ The image should be inserted with code like that below where you replace the fil
 
 
                                                                                                                                                                                                                                                                               
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
+                                                                                                                                                                                                                                                                                 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
 The image above shows 'A Surprise House' from the top, showing the contact points for music and light activation.                                                                                                                                                                 
 
 

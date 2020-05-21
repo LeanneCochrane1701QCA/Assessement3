@@ -29,8 +29,10 @@ The image should be inserted with code like that below where you replace the fil
 
 
 
-The image below shows 'A Surprise House' from the top, showing the contact points for music and light activation.
+
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
+The image above shows 'A Surprise House' from the top, showing the contact points for music and light activation.                                                                                                                                                                 
+
 
 This video shows how the lift inside works
 (https://vimeo.com/421278043)

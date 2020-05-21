@@ -19,6 +19,30 @@
 
 <!--- Repeat code above for a total of 6 related projects --->
 
+### *Insert name of related project here* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+## Project working title ##
+*A Surprise in a Pretty Box*
+
+## Related projects ##
+*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+
+### Related project 1 ###
+*Let’s Party!!! By Sally71*
+
+*https://www.youtube.com/watch?v=yIH5gkRLRBI*
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Lets%20Party.png)
+
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 

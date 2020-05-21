@@ -20,7 +20,8 @@ The image should be inserted with code like that below where you replace the fil
 
 
 
-<!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
+
+                                                                                                                                                                                                                                                                                                                                                                                                                       <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
 
 
@@ -29,7 +30,7 @@ The image should be inserted with code like that below where you replace the fil
 
 
                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
 The image above shows 'A Surprise House' from the top, showing the contact points for music and light activation.                                                                                                                                                                 
 
 

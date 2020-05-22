@@ -146,6 +146,7 @@ I like this idea too but it would need to be more sturdy then this and would aga
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. ---> 
  ### Design concept 1 ###
+A cute and soft looking toy or a  button maybe that says don't touch or don't pick up and when you do pick up it shakes and squeals. 
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpg)
 

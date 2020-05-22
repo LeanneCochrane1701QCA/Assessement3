@@ -1,4 +1,4 @@
-# *A Surprise House*
+# *A Surprise House in a Box*
 ## *Leanne Cochrane* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
@@ -31,10 +31,10 @@ The image should be inserted with code like that below where you replace the fil
 
                                                                                                                                                                                                                                                                               
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Showcase%20Image%204%20from%20top.jpg)
-The image above shows 'A Surprise House' from the top, showing the contact points for music and light activation.                                                                                                                                                                 
+The image above shows 'A Surprise House in a Box' from the top, showing the contact points for music and light activation.                                                                                                                                                                 
 
 
-This video shows how the lift inside works
+This video shows how the lift inside the box works.
 (https://vimeo.com/421278043)
 
 

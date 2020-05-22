@@ -11,6 +11,7 @@
 The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up. Note that .png is different to .PNG in a filename here. The names are case sensitive.
 --->
 
+![Image]
 (https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Showcase%20Photo%20-%20A%20Surprise%20House.jpg)
 
 <!--- PROJECT DESCRIPTION:   In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. ---> Not just any boring old box, this fancy box comes with a surprise inside.  Pull the handle at the side and watch as a beautiful home made house is revealed.  Not only does it have amazing flashing lights but it plays music too, perfect for keeping the youngest and oldest members of the family happy for hours.

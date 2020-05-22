@@ -181,8 +181,6 @@ A box that you put a code in to open and once you get the code right and open it
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(1).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(1).jpg)
-
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(4).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(2).jpg)
@@ -192,8 +190,6 @@ A box that you put a code in to open and once you get the code right and open it
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(4a).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(5).jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(7).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(8).jpg)
 
@@ -209,13 +205,19 @@ A box that you put a code in to open and once you get the code right and open it
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(6).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(0).jpg)
+## Balsa Wood Scissor Lift ##
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(2).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(3).jpg)
 
+I had to add a bolt on to the base of the lift days out from final review as the lift started to fall apart.
+
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(4)%20new%20bolt.jpg)
+
+## Designing the House ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(1).jpg)
 
@@ -226,6 +228,8 @@ A box that you put a code in to open and once you get the code right and open it
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(4).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(5).jpg)
+
+## The Tiny House Build ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(1).jpg)
 
@@ -267,7 +271,7 @@ A box that you put a code in to open and once you get the code right and open it
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(7).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
+![Image(https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(13).jpg)
 

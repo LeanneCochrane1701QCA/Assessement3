@@ -16,16 +16,7 @@ The image should be inserted with code like that below where you replace the fil
 <!--- PROJECT DESCRIPTION:   In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. ---> Not just any boring old box, this fancy box comes with a surprise inside.  Pull the handle at the side and watch as a beautiful home made house is revealed.  Not only does it have amazing flashing lights but it plays music too, perfect for keeping the youngest and oldest members of the family happy for hours.
 
 
-
-
-
-
-
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
-
-
-
-
 
 
 
@@ -35,13 +26,13 @@ The image above shows 'A Surprise House in a Box' from the top, showing the cont
 
 
 This video shows how the lift inside the box works.
+
 (https://vimeo.com/421278043)
 
 
 <!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Showcase%202%20Photo.jpg)
-(https://vimeo.com/421278123)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Showcase%202%20Photo.jpg)(https://vimeo.com/421278123)
 
 ### Journal ###
 

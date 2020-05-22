@@ -43,6 +43,8 @@
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Lets%20Party.png)
 
+This project is related to mine because it has a mechanically element, it plays music and has lights plus it is definitely a surprise in a box.  I seriously thought of doing something similar and may yet do this at some stage in the future.
+
 ### Related project 2 ###
 *Microbit: A Password to open a door*
 

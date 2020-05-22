@@ -155,9 +155,7 @@ I like this idea too but it would need to be more sturdy then this and would aga
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FlowChart2.jpg)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
-
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FDC2.jpg)
+<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material. ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FDC2.jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20Balsa%20wood.jpg)
 
@@ -176,7 +174,8 @@ There will likely by a dozen or so images of the project under construction. The
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-![Image](
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Code%20(3).jpg)
+
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->It has certainly been a big learning curve over the last couple of months especially getting to this point.  I am happy with where I am at with the project so far, yet there is still so much to work out and learn about.  I am finding the idea of putting together my light show with music a little overwhelming at the moment and am spending a lot of time watching YouTube videos and scanning websites trying to figure out how best to do this. I think I have used the double diamond in assisting to come up with my final design and ideas, I made a basic choice of what I've wanted to do and then worked on that idea and researched, then from feedback and revisiting the original idea I have been able to come to a conclusion.  The more I go back and confirm what I am doing, the more grounded I am but also the more my project develops.

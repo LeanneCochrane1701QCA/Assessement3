@@ -144,9 +144,8 @@ I like this idea too but it would need to be more sturdy then this and would aga
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->I want to create a toy or music box that makes music and displays a light when touched or when senses motion.
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. ---> ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. ---> 
+ ### Design concept 1 ###
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpg)
 
@@ -181,17 +180,12 @@ Use subheadings to structure this information. See https://guides.github.com/fea
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
+## Building the box ##
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Box%20Design.jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Code%20Play%20(3).jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Code%20Play%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(1).jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(3).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(4).jpg)
 

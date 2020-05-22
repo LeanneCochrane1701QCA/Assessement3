@@ -144,10 +144,19 @@ I like this idea too but it would need to be more sturdy then this and would aga
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->I want to create a toy or music box that makes music and displays a light when touched or when senses motion.
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. ---> ### Design concept 1 ###
+*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC12.jpg)
+
+### Design concept 2 ###
+A box that you put a code in to open and once you get the code right and open it, it plays music and lights up, if you get the code wrong it sets an alarm off.
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20DC22.jpg)
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. ---> A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa wood and cardboard.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->

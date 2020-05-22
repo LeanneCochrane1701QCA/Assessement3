@@ -4,34 +4,8 @@
 
 <!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
 
-## Related projects ##
-<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
-
-### *Insert name of related project here* ###
-
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
-
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
-
-### *Insert name of related project here* ###
-
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
-
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
 ## Project working title ##
-*A Surprise in a Pretty Box*
+*A Surprise House in a Box*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -91,7 +65,78 @@ This project is related to mine because it is using some mechanical parts, the m
 This project is related to mine because again it is quite mechanical. I love the way he uses foil and wire to manage his project, makes use of the servo motor and microbit in a different way.
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->The amount of research I have done this far for this project is unbelievable, there is so much stuff out there, alot to learn and it is all so exciting.  I have definitely found a couple of really helpful sights and some of them don't even speak English. 
+
+
+### *Microbit lessons* ###
+
+*https://microbit.org/lessons/*
+
+This website has been very helpful in showing the different terms and how the microbit works.
+
+### *Hay Kal – YouTube videos* ###
+
+*https://www.youtube.com/user/kayebti/videos*
+
+I've really enjoyed this guys Youtube videos, he doesn't speak but takes you through step by step how to do things, I'm not even sure what language he speaks but most writing on his videos is in a different language.  This doesn't stop you understanding the main point of his tutorials. 
+
+
+### *Mark Ng - YouTube* ###
+
+*https://www.dfrobot.com/blog-801.html*
+
+This blog is also really great, this is the blog for the 'Micro:bit Surprise Box' from the above projects and he has links to other projects as well.
+
+
+### *How to attach croc clip to LED lights* ###
+
+*https://www.youtube.com/watch?v=1PhghS_-NYc*
+
+This would have terrified me before, now I'm looking forward to having a go at doing this and hopefully utilising some in my project. I'm pretty sure it is not going to be this easy but he certainly makes it look so.
+
+### *OSOYOO - This YouTube series of videos is also very helpful* ###
+
+*https://www.youtube.com/channel/UCZsnf-n1TR1MGQT-ru-j4TA/videos*
+
+I will definitely be jumping on here and spending alot more time over the next few weeks.  Really easy to follow instructions and despite the robotic voice it is great.
+
+### *Microsoft MakeCode* ###
+
+*https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q/videos*
+
+So many different videos on this Youtube site and I really wish I had found it earlier as they are so helpful and a load of different interesting ideas on different ways to use the microbit.
+
+### *Shawn Hymel - Microbit Tutorials* ###
+
+*https://www.youtube.com/watch?v=ZIW_6rxYNBg&t=10s*
+
+Despite this guy being a major pain in my 'Ears' and I've really resisted watching his stuff as he drives me so crazy but he is very good and turns up everywhere so, I will be utilising him more now.  I will just turn the volume down when he is joking about, his explainations of how the microbit works and how everything ties in together is just amazing. 
+
+### *Electronics companies selling kit- Core Electronics* ###
+
+*https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w/search?query=microbit*
+
+Quite a few of the electronics companies that sell microbits, arduiono, Raspberry Pi etc.. offer some great little videos and information on their websites, these guys ran a series on the microbit that I watched and found helpful.
+
+### *Ideas for lifting my Diorama up and out of the box.* ###
+
+*Hydralics maybe and a scissor lift?*
+
+*https://www.youtube.com/watch?v=Q649L1_jMZc*
+
+This is definitely an option but not sure about the water, maybe that can be the interactive thing that is done. Or maybe make some cogs and stick with the windup version, this scissor structure could work for that.
+
+*Scissor lift only?*
+
+*https://www.youtube.com/watch?v=VEJzHizTYSU*
+
+I love this option, very sturdy and clean operation.  I would obviously have to do this on a much smaller version.
+
+*Water only lift?*
+
+*https://www.youtube.com/watch?v=zFhy21loeRw*
+
+I like this idea too but it would need to be more sturdy then this and would again wipe out the option of wind up but that could be easier.
 
 ## Conceptual development ##
 
@@ -107,10 +152,20 @@ This project is related to mine because again it is quite mechanical. I love the
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FlowChart2.jpg)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FDC2.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20Balsa%20wood.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20some%20notes%20.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20Scale%20of%20box%20and%20house%20base.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20rough%20outline%20of%20desiign.jpg)
 
 This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
 
@@ -121,9 +176,10 @@ There will likely by a dozen or so images of the project under construction. The
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+![Image](
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->It has certainly been a big learning curve over the last couple of months especially getting to this point.  I am happy with where I am at with the project so far, yet there is still so much to work out and learn about.  I am finding the idea of putting together my light show with music a little overwhelming at the moment and am spending a lot of time watching YouTube videos and scanning websites trying to figure out how best to do this. I think I have used the double diamond in assisting to come up with my final design and ideas, I made a basic choice of what I've wanted to do and then worked on that idea and researched, then from feedback and revisiting the original idea I have been able to come to a conclusion.  The more I go back and confirm what I am doing, the more grounded I am but also the more my project develops.
 
 
 ## Reflection ##

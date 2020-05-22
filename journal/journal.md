@@ -209,8 +209,6 @@ A box that you put a code in to open and once you get the code right and open it
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(1).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(2).jpg)
-
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(3).jpg)
 
 I had to add a bolt on to the base of the lift days out from final review as the lift started to fall apart.
@@ -218,8 +216,6 @@ I had to add a bolt on to the base of the lift days out from final review as the
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(4)%20new%20bolt.jpg)
 
 ## Designing the House ##
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(2).jpg)
 
@@ -253,15 +249,15 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(19).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(1).jpg)
+## Painting the House ##
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(2).jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(1).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(3).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lid%20Paint%20(1).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(1).jpg)
+## Painting the House ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(2).jpg)
 
@@ -271,7 +267,9 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(7).jpg)
 
-![Image(https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
+
+## Electronics ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(13).jpg)
 

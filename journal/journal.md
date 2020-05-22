@@ -197,8 +197,6 @@ A box that you put a code in to open and once you get the code right and open it
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(1).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(2).jpg)
-
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(3).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(5).jpg)
@@ -249,6 +247,8 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(19).jpg)
 
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
+
 ## Painting the House ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(1).jpg)
@@ -257,7 +257,7 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lid%20Paint%20(1).jpg)
 
-## Painting the House ##
+## Electronics ##
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(2).jpg)
 
@@ -267,19 +267,11 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(7).jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
-
-## Electronics ##
-
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(13).jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(14).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(15).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(12).jpg)
-
-![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(17).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(19).jpg)
 
@@ -295,7 +287,9 @@ I had to add a bolt on to the base of the lift days out from final review as the
 
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->It has certainly been a big learning curve over the last couple of months especially getting to this point.  I am happy with where I am at with the project so far, yet there is still so much to work out and learn about.  I am finding the idea of putting together my light show with music a little overwhelming at the moment and am spending a lot of time watching YouTube videos and scanning websites trying to figure out how best to do this. I think I have used the double diamond in assisting to come up with my final design and ideas, I made a basic choice of what I've wanted to do and then worked on that idea and researched, then from feedback and revisiting the original idea I have been able to come to a conclusion.  The more I go back and confirm what I am doing, the more grounded I am but also the more my project develops.
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->It has certainly been a big learning curve over the last couple of months especially getting to this point.  I am happy with where I am at with the project so far, yet there is still so much to work out and learn about.  I am finding the idea of putting together my light show with music a little overwhelming at the moment and am spending a lot of time watching YouTube videos and scanning websites trying to figure out how best to do this. I think I have used the double diamond in assisting to come up with my final design and ideas, I made a basic choice of what I've wanted to do and then worked on that idea and researched, then from feedback and revisiting the original idea I have been able to come to a conclusion.  The more I go back and confirm what I am doing, the more grounded I am but also the more my project develops. 
+
+I have needed to revisit this process so many times with the little hiccups that have come up along the way
 
 
 ## Reflection ##
@@ -308,4 +302,6 @@ What parts of your project do you feel are novel? This is IMPORTANT to help just
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
-It has been such a learning curve but I have enjoyed every minute except the stress to get the projects finished on time.  I have had quite a few blips along the way, some of the balsa wood was difficult to cut, the original lid of my box was far too heavy, I couldn't manage to create a wind up lift and the lift I created wasn't as sturdy as I liked and broke, not to mention all of my individual LED's blew up a day out from presentation.  I have managed to fix all of the problems but time again I would've had an extra day or two up my sleeve and I would have made a bigger more sturdy design which would allow you to fix things more readily.  I love the end result of the project, the way the music starts and then the flashing lights as it hits the connector buttons on the back, the delight as it comes up working is a lot of fun and totally makes a boring box exciting for all ages.  I could totally see this done as a bigger interactive project at my friends Christmas tree house and he was enthralled by the idea of this.  Watch this space.   
+I have learnt so many new things throughout the course of this project and I have enjoyed every minute of the process except maybe the time constraints associated with the building but such is life.  I have had quite a few blips along the way which has been interesting, to start with some of the balsa wood was difficult to cut and the original lid of my box was far too heavy to lift off the box so I made a lighter cardboard one and painted it white. I also couldn't manage to create a wind up lift so had to alter my design to deal with this and the result was a lift that was never quite as controlled or sturdy as I had hoped. It did actually break in the end and I had to affix a much sturdier bolt in the base of the slide, if I had my time again I would use as many larger bolts as I could and maybe try a slightly stronger wood. A stronger lift may have helped with my original problem of having the lid of the box lift up automatically from the force of the house coming up.  The lift and the house just weren't strong enough to make this happen, I'm sure I could come up with an alternative given time and even the lighter lid was a fail. 
+A very minor thing was the painting of the house, I did brown on the upper half of the building and it was supposed to represent wood but just didn't and everyone in my house insisted I change the colour, so I gave into peer group pressure and changed it to white which was far more pleasing to the eye. I was hoping to be finished completely Wednesday night and after wiring up and soldering along the fence all of the individual LED's I managed to burn out all but two of them.  This was disappointing but resolved easily enough the next morning with a purchase of more lights and a rewiring expedition. 
+I did manage to fix all of the problems and if I'd had an extra day or two up my sleeve and I would have definitely worked on the engineering side of things a little more and made a much sturdier design. I am however, very pleased and I love the end result of the project, the way the music starts first and then the lights begin to flash as it hits the connector buttons on the back on the way up.  The delight, novelty and surprise as the house pops up singing and flashing is a lot of fun and totally makes a boring box exciting for all ages. I could also see this project being done in a slightly smaller capacity with other things popping out of the box, like a dancing doll or teddy comes up dancing with a flashing belt on.  Another option for this project could also be a much bigger interactive project at my friends Christmas tree house, whereby the kids wind up the box and see what pops out, the scene obviously being alot more Christmas orientated, I did mention this to him and he was enthralled by the idea.. I guess we best watch this space!!   

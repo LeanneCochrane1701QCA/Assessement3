@@ -191,13 +191,11 @@ There will likely by a dozen or so images of the project under construction. The
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(1).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(3).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(4).jpg)
 
-![Image](missingimage.png)
-
-![Image](missingimage.png))
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(2).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(3).jpg)
 
@@ -206,8 +204,6 @@ There will likely by a dozen or so images of the project under construction. The
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(5).jpg)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(7).jpg)
-
-![Image](missingimage.png)
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(8).jpg)
 

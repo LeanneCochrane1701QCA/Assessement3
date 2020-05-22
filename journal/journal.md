@@ -158,6 +158,8 @@ A box that you put a code in to open and once you get the code right and open it
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. ---> A keepsake wooden box, that has a diorama of a little house in it, with maybe a Xmas scene happening outside, you wind up the house to the top of the box and once up the top, it plays xmas carols and the coloured lights flash.  You can either leave it up and play it again or you can wind it down ready for the next person to have a look. I am going to make it shoe box size or maybe a little bigger, at this stage I will be using a combination of balsa wood and cardboard.
 
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-Cochrane1701QCA-Assignment-2-/blob/master/Prj%202%20FDC2.jpg)
+
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
@@ -178,6 +180,54 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Box%20Design.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Code%20Play%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Code%20Play%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(1).jpg)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png))
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(4a.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(5).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(7).jpg)
+
+![Image](missingimage.png)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(8).jpg)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
 
 ## Final code ##
 

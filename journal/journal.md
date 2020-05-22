@@ -207,23 +207,94 @@ There will likely by a dozen or so images of the project under construction. The
 
 ![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Building%20Box%20(8).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(1).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(2).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(3).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(5).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20Model%20(6).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(0).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(1).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(2).jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lift%20(4)%20new%20bolt.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(2).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(4).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Design%20(5).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(2).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(4).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20((5).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(12).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(14).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(14a).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(16).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(17).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(18).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Build%20(19).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(2).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20House%20Paint%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Lid%20Paint%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(2).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(3).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(5).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20Notes%20(7).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Fence%20and%20Furniture%20(1).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(13).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(14).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(15).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(12).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(17).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(19).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(20).jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/LeanneCochrane1701QCAAssessement3/blob/master/Pr%203%20Electronics%20%20(21).jpg)
+
 
 ## Final code ##
 
@@ -237,10 +308,12 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding. 
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+It has been such a learning curve but I have enjoyed every minute except the stress to get the projects finished on time.  I have had quite a few blips along the way, some of the balsa wood was difficult to cut, the original lid of my box was far too heavy, I couldn't manage to create a wind up lift and the lift I created wasn't as sturdy as I liked and broke, not to mention all of my individual LED's blew up a day out from presentation.  I have managed to fix all of the problems but time again I would've had an extra day or two up my sleeve and I would have made a bigger more sturdy design which would allow you to fix things more readily.  I love the end result of the project, the way the music starts and then the flashing lights as it hits the connector buttons on the back, the delight as it comes up working is a lot of fun and totally makes a boring box exciting for all ages.  I could totally see this done as a bigger interactive project at my friends Christmas tree house and he was enthralled by the idea of this.  Watch this space.   
